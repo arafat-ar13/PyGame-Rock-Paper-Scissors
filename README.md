@@ -4,4 +4,4 @@ Welcome to my first game made with a gaming-focused framework PyGame! This is a 
 
 ## Game snaps
 
-![Game screen](Game Pictures/rock_paper_scissors_demo.png)
+![Game screen](/Game Pictures/rock_paper_scissors_demo.png)
